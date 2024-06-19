@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.backbround_img {
+    background-image: url(./assets/Mask\ Group\ \(1\).svg);
+    width: 1536px;
+    height: 331px;
+}
+.img_words {
+    text-align: center;
+}
+.img_h1{
+    color: #e8aa31;
+}
+.img_p{
+    font-family: Montserrat;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 27px;
+    letter-spacing: 0.03em;
+    text-align: left;
+    color: #fff;
+    margin-left: 300px;
+}
